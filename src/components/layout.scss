@@ -1,0 +1,86 @@
+$black: hsla(210, 0, 7.5%, .85);
+$gray: hsla(210, 0, 50%, .85);
+$light-gray: hsla(0, 0, 65%, .85);
+$white: hsl(50, 0, 100%);
+$link: hsla(210, 80%, 30%, .85);
+$header-fonts: UnifrakturCook, sans-serif;
+    
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: $white;
+  color: $black;
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 21px;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizelegibility;
+}
+
+a {
+  color: $link;
+
+  &:hover {
+    color: lighten($link, 15%);
+  }
+}
+
+header {
+  font-family: $header-fonts;
+  margin: 1em auto 3em;
+  max-width: 740px;
+
+  a {
+    color: $gray;
+    margin-left: 21px;
+    margin-right: 21px;
+    text-decoration: none;
+
+    &:hover {
+      color: lighten($gray, 15%);
+      text-decoration: underline;
+    }
+  }
+}
+
+main {
+  margin: 0 auto 4em;
+  max-width: 740px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-fonts;
+  margin-left: 21px;
+  margin-right: 21px;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1em;
+  margin-bottom: .25em;
+}
+
+h2 {
+  font-size: 1.75em;
+  margin-bottom: .5em;
+  margin-top: 1em;
+}
+
+p {
+  line-height: 1.5em;
+  margin-bottom: 0;
+  margin-left: 21px;
+  margin-right: 21px;
+  overflow-wrap: break-word;
+}
+
+iframe {
+  margin: 1em 21px;
+}
+
+ul {
+  line-height: 1.5em;
+}

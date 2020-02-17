@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
-import Layout from "../components/layout"
+import LayoutIndex from "../components/layout-index"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
-  <Layout>
+  <LayoutIndex>
     <SEO title="Home" />
     <h1>Matthew Gifford</h1>
     <p>Dad to <a href="http://www.augustgifford.com/">August</a> and <a href="http://www.hazelgifford.com/">Hazel</a>. Husband to <a href="http://www.thegiffordranch.com/">Angela</a>. Developer at <a href="https://www.goldstar.com/">Goldstar</a>. DM for Dragon Hunters Intercontinental. Maker of old fashioneds.</p>
@@ -18,7 +18,7 @@ const IndexPage = () => (
       <li><a href="http://www.amazon.com/gp/registry/wishlist/O31YDA173GFW/ref=cm_wl_rlist_go_o?sort=priority&amp;itemPerPage=25">wish list</a></li>
       <li><a href="https://cash.me/$matthewgifford">Square Cash</a></li>
     </ul>
-  </Layout>
+  </LayoutIndex>
 )
 
 export default IndexPage
