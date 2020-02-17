@@ -5,7 +5,6 @@ import "./layout.scss"
 const LayoutIndex = ({ children }) => {
   return (
     <>
-      <link href="https://fonts.googleapis.com/css?family=Ibarra+Real+Nova|UnifrakturCook:700&display=swap" rel="stylesheet" /> 
       <main>{children}</main>
     </>
   )
