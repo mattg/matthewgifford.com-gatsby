@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h2>Links</h2>
     <ul>
       <li><Link to="/newsletter/">Giff’s Miscellanea</Link> (my email newsletter)</li>
-      <li><Link to="/dnd-resources/">D&amp;D resources</Link></li>
+      <li><Link to="/dnd-resources/">D&amp;D Resources</Link></li>
       <li><a href="https://github.com/mattg">GitHub</a></li>
       <li><a href="https://keybase.io/giff">Keybase</a></li>
       <li><a href="mailto:mgifford@gmail.com">email</a></li>
