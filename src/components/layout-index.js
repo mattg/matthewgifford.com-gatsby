@@ -5,6 +5,9 @@ import "./layout.scss"
 const LayoutIndex = ({ children }) => {
   return (
     <>
+      <header>
+        &nbsp;
+      </header>
       <main>{children}</main>
     </>
   )

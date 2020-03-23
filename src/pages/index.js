@@ -7,7 +7,7 @@ const IndexPage = () => (
   <LayoutIndex>
     <SEO title="Home" />
     <h1>Matthew Gifford</h1>
-    <p>Dad to <a href="http://www.augustgifford.com/">August</a> and <a href="http://www.hazelgifford.com/">Hazel</a>. Husband to <a href="http://www.thegiffordranch.com/">Angela</a>. Developer at ❓. DM for Dragon Hunters Intercontinental. Maker of old fashioneds.</p>
+    <p>Dad to <a href="http://www.augustgifford.com/">August</a> and <a href="http://www.hazelgifford.com/">Hazel</a>. Husband to <a href="http://www.thegiffordranch.com/">Angela</a>. DM for Dragon Hunters Intercontinental. Maker of old fashioneds.</p>
     <h2>Links</h2>
     <ul>
       <li><Link to="/newsletter/">Giff’s Miscellanea</Link> (my email newsletter)</li>

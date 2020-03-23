@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova|Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
 
 $black: hsla(210, 0, 7.5%, .85);
 $gray: hsla(210, 0, 50%, .85);
@@ -6,7 +6,7 @@ $light-gray: hsla(0, 0, 65%, .85);
 $white: hsl(50, 0, 100%);
 $link: hsla(210, 80%, 30%, .85);
 $body-fonts: 'Ibarra Real Nova', serif;
-$header-fonts: 'Pirata One', sans-serif;
+$header-fonts: 'Ibarra Real Nova', serif;
     
 html {
   -ms-text-size-adjust: 100%;
@@ -32,7 +32,7 @@ a {
 }
 
 header {
-  font-family: $body-fonts;
+  font-family: $header-fonts;
   margin: 1em auto 3em;
   max-width: 740px;
 
