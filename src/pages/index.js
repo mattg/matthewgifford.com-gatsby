@@ -10,7 +10,6 @@ const IndexPage = () => (
     <p>Dad to <a href="http://www.augustgifford.com/">August</a> and <a href="http://www.hazelgifford.com/">Hazel</a>. Husband to <a href="http://www.thegiffordranch.com/">Angela</a>. DM for Dragon Hunters Intercontinental. Maker of old fashioneds.</p>
     <h2>Links</h2>
     <ul>
-      <li><Link to="/newsletter/">Giff’s Miscellanea</Link> (my email newsletter)</li>
       <li><Link to="/dnd-resources/">D&amp;D Resources</Link></li>
       <li><a href="https://github.com/mattg">GitHub</a></li>
       <li><a href="https://keybase.io/giff">Keybase</a></li>
