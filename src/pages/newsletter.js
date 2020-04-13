@@ -1,6 +1,6 @@
-import React from "react"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import React from "react";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
 const IndexPage = () => (
   <Layout>
@@ -9,6 +9,6 @@ const IndexPage = () => (
     <p>This is an email newsletter about things that interest me. And maybe you, too.</p>
     <iframe scrolling="no" style={{width: '100%', height: '220px', border: '0'}} src="https://buttondown.email/mattg?as_embed=true" title="Signup Form"></iframe>
   </Layout>
-)
+);
 
-export default IndexPage
+export default IndexPage;

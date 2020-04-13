@@ -1,7 +1,7 @@
-import React from "react"
-import { Link } from "gatsby"
-import LayoutIndex from "../components/layout-index"
-import SEO from "../components/seo"
+import React from "react";
+import { Link } from "gatsby";
+import LayoutIndex from "../components/layout-index";
+import SEO from "../components/seo";
 
 const IndexPage = () => (
   <LayoutIndex>
@@ -18,6 +18,6 @@ const IndexPage = () => (
       <li><a href="https://cash.me/$matthewgifford">Square Cash</a></li>
     </ul>
   </LayoutIndex>
-)
+);
 
-export default IndexPage
+export default IndexPage;

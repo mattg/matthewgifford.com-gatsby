@@ -1,6 +1,6 @@
-import React from "react"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import React from "react";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
 const IndexPage = () => (
   <Layout>
@@ -23,6 +23,6 @@ const IndexPage = () => (
       <li><a href="https://www.youtube.com/watch?v=byva0hOj8CU&amp;list=PL1tiwbzkOjQxD0jjAE7PsWoaCrs0EkBH2">Campaign 2</a></li>
     </ul>
   </Layout>
-)
+);
 
-export default IndexPage
+export default IndexPage;
