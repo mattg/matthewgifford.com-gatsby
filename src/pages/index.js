@@ -13,7 +13,7 @@ const IndexPage = () => (
       <li><Link to="/dnd-resources/">D&amp;D Resources</Link></li>
       <li><a href="https://github.com/mattg">GitHub</a></li>
       <li><a href="https://keybase.io/giff">Keybase</a></li>
-      <li><a href="mailto:mgifford@gmail.com">email</a></li>
+      <li><a href="mailto:hi.giff+website@pm.me">email</a></li>
       <li><a href="http://www.amazon.com/gp/registry/wishlist/O31YDA173GFW/ref=cm_wl_rlist_go_o?sort=priority&amp;itemPerPage=25">wish list</a></li>
       <li><a href="https://cash.me/$matthewgifford">Square Cash</a></li>
     </ul>
