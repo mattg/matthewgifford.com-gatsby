@@ -9,7 +9,7 @@ const IndexPage = () => (
     <p>Links to useful D&amp;D things.</p>
     <h2>Supplies</h2>
     <ul>
-      <li><a href="https://docs.google.com/document/d/1c5U-i-UNh00-o2SZeqmM1TkvthswvbOAuWkDJaybyhI/edit?usp=sharing">my initiative tracker</a></li>
+      <li><a href="/initiative-tracker.pdf">my initiative tracker</a></li>
       <li><a href="https://dnd.wizards.com/products/tabletop-games/trpg-resources/character-sheets">official character sheets</a></li>
     </ul>
     <h2>Improving Your Game</h2>
