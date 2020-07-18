@@ -7,7 +7,7 @@ const IndexPage = () => (
   <LayoutIndex>
     <SEO title="Home" />
     <h1>Matthew Gifford</h1>
-    <p>👨‍👩‍👧‍👦 👨‍💻 👨‍🌾 🐉 🥃</p>
+    <p>👨‍👩‍👧‍👦 👨‍💻 👨‍🌾 📖 🐉 🥘 🎸 ☕️ 🥃</p>
     <h2>Links</h2>
     <ul>
       <li><Link to="/dnd-resources/">D&amp;D Resources</Link></li>
